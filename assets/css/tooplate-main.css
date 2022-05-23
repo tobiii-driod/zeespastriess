@@ -159,6 +159,66 @@ a {
 	margin-bottom: 20px;
 }
 
+.banner2 {
+	margin-top: 50px;
+	background-image: url(../images/back1.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	padding: 150px 0px;
+	background-position: center center;
+}
+.banner2 .caption {
+	background-color: rgba(250,250,250,0.9);
+	padding: 30px;
+	max-width: 450px;
+}
+.banner2 .caption h2 {
+	margin-top: 0px;
+	margin-bottom: 15px;
+	font-size: 24px;
+	font-weight: 700;
+	color: #1e1e1e;
+}
+.banner2 .caption .line-dec {
+	width: 30px;
+	height: 5px;
+	background-color: #3a8bcd;
+}
+.banner2 .caption p {
+	margin-top: 15px;
+	margin-bottom: 20px;
+}
+
+.banner {
+	margin-top: 50px;
+	background-image: url(../images/back2.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	padding: 150px 0px;
+	background-position: center center;
+}
+.banner3 .caption {
+	background-color: rgba(250,250,250,0.9);
+	padding: 30px;
+	max-width: 450px;
+}
+.banner3 .caption h2 {
+	margin-top: 0px;
+	margin-bottom: 15px;
+	font-size: 24px;
+	font-weight: 700;
+	color: #1e1e1e;
+}
+.banner3 .caption .line-dec {
+	width: 30px;
+	height: 5px;
+	background-color: #3a8bcd;
+}
+.banner3 .caption p {
+	margin-top: 15px;
+	margin-bottom: 20px;
+}
+
 /* Featured Style */
 .featured-items {
 	margin-bottom: 70px;
